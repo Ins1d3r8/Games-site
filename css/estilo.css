@@ -68,6 +68,14 @@ footer p {
     margin-top: 100px;
 }
 
+#password {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left: 12%;
+    margin-top: -2.5%;
+}
+
 #section-login h1 {
     text-align: center;
 }
