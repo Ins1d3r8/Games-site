@@ -82,11 +82,12 @@ footer p {
     background-color: #fff;
 }
 
-#form-cadastrar {
-    padding: 50px;
-    display: none;
-}
+
 
 
 /* Formulário de cadastro*/
 
+#form-cadastrar {
+    padding: 50px;
+    display: none;
+}
