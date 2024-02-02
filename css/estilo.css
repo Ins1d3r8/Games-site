@@ -13,7 +13,7 @@ header img {
 /*banner*/
 
 #section-banners img {
-    height: 750px;
+    height: 600px;
 
 }
 
@@ -99,4 +99,10 @@ footer p {
 #form-cadastrar {
     padding: 50px;
     display: none;
+}
+
+/*Desenvolvido por:*/
+
+#developer {
+    margin-top: 40%;
 }
